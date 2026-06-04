@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Mi Aplicación Filtro",
+    "package_name": "com.tuusuario.filtrotv",
+    "version_code": 1,
+    "version_name": "1.0.0",
+    "icon_url": "https://liberatadecovg-droid.github.io/vgstore/icono_filtro.png",
+    "download_url": "https://liberatadecovg-droid.github.io/vgstore/mi_app_filtro.apk",
+    "description": "Aplicación para control y bypass de servicios."
+  }
+]
