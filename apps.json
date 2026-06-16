@@ -5,7 +5,7 @@
     "package_name": "xuper.tv",
     "version_code": 1,
     "version_name": "35.4.5",
-    "icon_url": "content://media/external/downloads/43417",
+    "icon_url": "https://raw.githubusercontent.com/liberatudecovg-droid/vgstore/refs/heads/main/xuper.png",
     "download_url": "http://aftv.news/6338627",
     "description": "Aplicación para tv y peliculas."
   }
